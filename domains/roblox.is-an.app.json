@@ -4,11 +4,9 @@
   "domain": "is-an.app",
   "subdomain": "roblox",
   "owner": {
-    "repo": "https://github.com/Bevke/mubrise.github.io",
-    "email": "kocakb746@gmail.com"
+    "repo": "https://github.com/Bevke/mubrise.github.io"
   },
   "record": {
-    "CNAME": "mubrise.github.io.",
-  },
-  "proxy": false // disable the CF proxy, proxying is always enabled by default
+    "CNAME": "mubrise.github.io"
+  }
 }
