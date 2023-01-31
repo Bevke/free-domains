@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/domain.schema.json",
-  "description": "<describe your project in this field>",
+  "description": "e",
   "domain": "is-an.app",
   "subdomain": "roblox",
   "owner": {
@@ -8,7 +8,7 @@
     "email": "kocakb746@gmail.com"
   },
   "record": {
-    "CNAME": "bevke.github.io.",
+    "CNAME": "mubrise.github.io.",
     "A": ["185.199.108.153","185.199.109.153","185.199.110.153","185.199.111.153"],
   },
   "proxy": false // disable the CF proxy, proxying is always enabled by default
