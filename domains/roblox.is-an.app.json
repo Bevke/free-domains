@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/domain.schema.json",
-  "description": "e",
+  "description": "",
   "domain": "is-an.app",
   "subdomain": "roblox",
   "owner": {
