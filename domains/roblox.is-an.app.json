@@ -4,8 +4,8 @@
   "domain": "is-an.app",
   "subdomain": "roblox",
   "owner": {
-    "repo": "<https://URL/to/the/repository/with/subdomain/content/sources>",
-    "email": "<your-public@email.address>"
+    "repo": "https://github.com/Bevke/mubrise.github.io",
+    "email": "kocakb746@gmail.com"
   },
   "record": {
     "CNAME": "<cname-domain>",
