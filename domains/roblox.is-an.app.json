@@ -1,0 +1,18 @@
+{
+  "$schema": "../schemas/domain.schema.json",
+  "description": "<describe your project in this field>",
+  "domain": "is-an.app",
+  "subdomain": "roblox",
+  "owner": {
+    "repo": "<https://URL/to/the/repository/with/subdomain/content/sources>",
+    "email": "<your-public@email.address>"
+  },
+  "record": {
+    "CNAME": "<cname-domain>",
+    "TXT": ["list", "of", "required", "txt", "records"],
+    "A": ["list", "of", "IPv4", "addresses", "like", "a", "127.0.0.1"],
+    "AAAA": ["list", "of", "IPv6", "addresses", "like", "a", "::1"],
+    "NS": ["list", "of", "nameservers"]
+  },
+  "proxy": false // disable the CF proxy, proxying is always enabled by default
+}
